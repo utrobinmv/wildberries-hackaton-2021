@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.wpr
+*.wpu
+models/
+tmp/
+result/
+presents/
+datasets/
+dataset/
+result_csv/
+prj_datasets/
+docs/
+datasets/
+
